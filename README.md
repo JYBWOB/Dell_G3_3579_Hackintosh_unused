@@ -1,5 +1,5 @@
-# Dell_G3_3579_Hackintosh
-##### Clover for Dell_G3_3579 (No longer maintained)
+# Dell_G3_3579_Hackintosh (No longer maintained)
+##### Clover for Dell_G3_3579 
 
 You should try the Clover first on https://github.com/JiangHoumin/Dell_G3_3579_Hackintosh .
 
