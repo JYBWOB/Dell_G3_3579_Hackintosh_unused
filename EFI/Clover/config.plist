@@ -282,7 +282,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>No</string>
+			<integer>15</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -438,14 +438,14 @@
 			<key>Legacy</key>
 			<false/>
 			<key>Linux</key>
-			<false/>
+			<true/>
 			<key>Tool</key>
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Theme</key>
-		<string>bootcamp</string>
+		<string>Dell</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
